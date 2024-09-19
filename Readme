@@ -1,0 +1,11 @@
+This is some material for the tabletop RPG Dungeon World.
+
+The repository of Sage La Torra (SageLT) for the game makes use of the proprietary fіle format of the «Adobe İnDesign» (.indd extension), currently unusable by the FLOSS (Free Libre Open Source Software). He also openly stated that the fіles make use of proprietary fonts.
+
+So İ decided to port it to a Libre scriptable format. To do so, İ copied the content from the PDF that was generated.
+
+Also, Dungeon world has been criticized in the web because it didn’t provided [blank/generic/universal/customizable/template] playbooks. İ created one for this repository.
+
+These solutions aren’t perfect, though. But İ’m sure that ye can devise better formatting solutions.
+
+– Felipe Lohan Pinheiro da Silva.
