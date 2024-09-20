@@ -48,11 +48,11 @@ _Fill in at least one with the name of a companion, or write your own._
 
 ##Race
 
-**Human:** When you Make Camp next to a large, open flame, regain all of your HP.
+* ☐ **Human:** When you Make Camp next to a large, open flame, regain all of your HP.
 
-**Salamander:** Non-magical heat and fіre cannot harm you.
+* ☐ **Salamander:** Non-magical heat and fіre cannot harm you.
 
-**(Other – Specify):**
+* ☐ **(Other – Specify):**
 
 ##Attribute Scores
 
@@ -85,13 +85,13 @@ _Assign these scores to your stats: 16 (+2), 15 (+1), 13 (+1), 12 (+0), 9 (+0), 
 * **Burning Brand:** When you **conjure a weapon of pure flame**, roll+CON. On a 10+ choose two of the following tags, on a 7-9 choose one. You may treat your İNT as your STR or DEX in regards to making attacks with this weapon. The weapon always begins with the fіery, touch, dangerous, and 3 uses tags. Each attack with the weapon consumes
 one use.
 
-  * Hand.
+  * _Hand._
 
-  * Thrown, near.
+  * _Thrown, near._
 
   * +1 damage.
 
-  * remove the dangerous tag.
+  * remove the _dangerous_ tag.
 
 * **Fighting Fire With Fire:** When you take damage, and that damage is odd (after armor) the flames within you come to your aid. Roll 1d4 and either add that many uses to your burning brand (if active), take that result forward to summon your burning brand, or reduce the damage by that amount, your choice.
 

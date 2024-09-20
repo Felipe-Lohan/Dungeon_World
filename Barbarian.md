@@ -98,13 +98,13 @@ _You start with all of these._
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Riches and property
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Fame and glory
 
-* **Musclebound:** While you wield a weapon it gains the forceful and messy tags.
+* **Musclebound:** While you wield a weapon it gains the _forceful_ and _messy_ tags.
 
 ##Starting Moves (Choose)
 
 _You also choose one of these to start with._
 
-* ☐ **Full Plate And Packing Steel:** You ignore the clumsy tag on armor you wear.
+* ☐ **Full Plate And Packing Steel:** You ignore the _clumsy_ tag on armor you wear.
 
 * ☐ **Unencumbered, Unharmed:** So long as you are below your Load and neither wear armor nor carry a shield, take +1 armor.
 
