@@ -1,4 +1,4 @@
-#&#8203;⚔️ The Fighter ⚔️
+#&#8203;⚔️ The Fighter (Scaling-Up Variant) ⚔️
 
 ##Name:
 
@@ -145,7 +145,7 @@ _Choose a look:_
 
 _When you gain a level from 02-10, choose from these moves._
 
-* ☐ **Merciless:** When you **deal damage**, deal +1d4 damage.
+* ☐ **Bloodthirsty:** You **deal extra damage** based on your level – +1d4 for the levels 2-3, +1d6 for the levels 4-5, +1d8 for the level 6 or higher.
 
 * ☐ **Heirloom:** When you **consult the spirits that reside within your signature weapon**, they will give you an insight relating to the current situation, and might ask you some questions in return, roll+CHA. On a 10+, the GM will give you good detail; on a 7-9, the GM will give you an impression.
 
@@ -153,15 +153,15 @@ _When you gain a level from 02-10, choose from these moves._
 
 * ☐ **Blacksmith:** When you **have access to a forge** you can graft the magical powers of a weapon onto your signature weapon. This process destroys the magical weapon. Your signature weapon gains the magical powers of the destroyed weapon.
 
-* ☐ **İron Hide:** You gain +1 armor.
+* ☐ **Steel Hide:** You gain extra armor based on your level: +1 armor for the levels 2-5, +2 armor for the level 6 or higher.
 
-* ☐ **Armor Mastery:** When you **make your armor take the brunt of damage** dealt to you, the damage is negated but you must reduce the armor value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. İf the reduction leaves the item with 0 armor it is destroyed.
+* ☐ **Armored Perfection:** When you choose to **let your armor take the brunt of damage** dealt to you, the damage is negated; if you’re level 6 or higher, you also take +1 forward against the attacker. However, you must reduce the armor value of your armor or shield (your choice) by 1. The armor value is reduced each time you make this choice. İf the reduction leaves the item with 0 armor it is destroyed.
 
 * ☐ **Seeing Red:** When you **Discern Realities** during combat, you take +1.
 
 * ☐ **İnterrogator:** When you **parley using threats of violence** as leverage, you may use STR instead of CHA.
 
-* ☐ **Scent Of Blood:** When you **Hack & Slash** an enemy, your next attack against that same foe deals +1d4 damage.
+* ☐ **Taste Of Blood:** When you **Hack & Slash** an enemy, your next attack against that same foe deals extra damage based on your level – +1d4 for the levels 2-3, +1d6 for the levels 4-5, +1d8 for the level 6 or higher.
 
 * ☐ **Multiclass Dabbler:** Get one move from another class. Treat your level as one lower for choosing the move.
 
@@ -169,21 +169,13 @@ _When you gain a level from 02-10, choose from these moves._
 
 _When you gain a level from 06-10, choose from these moves._
 
-* ☐ **Bloodthirsty:** _Replaces: Merciless_. When you **deal damage**, deal +1d8 damage.
-
 * ☐ **Through Death’s Eyes:** When you **go into battle**, roll+WİS. On a 10+, name someone who will live _AND_ someone who will die. On a 7-9, name someone who will live _OR_ someone who will die. Name NPCs, not player characters. The GM will make your vision come true, if it’s even remotely possible. On a 6- you see your own death and consequently take -1 ongoing throughout the battle.
 
 * ☐ **Eye For Weaponry:** When you **look over an enemy’s weaponry**, ask the GM how much damage they do.
 
 * ☐ **Superior Warrior:** When you **Hack & Slash**, on a 12+ you deal your damage, avoid their attack, and impress, dismay, or frighten your enemy.
 
-* ☐ **Steel Hide:** _Replaces: İron Hide_. You gain +2 armor.
-
-* ☐ **Armored Perfection:** _Replaces: Armor Mastery_. When you choose to **let your armor take the brunt of damage** dealt to you, the damage is negated and you take +1 forward against the attacker, but you must reduce the armor value of your armor or shield (your choice) by 1. The value is reduced each time you make this choice. İf the reduction leaves the item with 0 armor it is destroyed.
-
-* ☐ **Evil Eye:** _Requires: Seeing Red_. When you **enter combat**, roll+CHA. On a 10+, hold 2; on a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can’t act until you break it off. On a 6-, your enemies immediately identify you as their biggest threat.
-
-* ☐ **Taste Of Blood:** _Replaces: Scent Of Blood_. When you **Hack & Slash** an enemy, your next attack against that same foe deals +1d8 damage.
+* ☐ **Evil Eye:** When you **enter combat**, you can choose to activate this move. İn this case, roll+CHA – On a 10+, hold 2; on a 7-9, hold 1. Spend your hold to make eye contact with an NPC present, who freezes or flinches and can’t act until you break it off. On a 6-, your enemies immediately identify you as their biggest threat.
 
 * ☐ **Multiclass İnitiate:** Get a move from another class. Treat your level as one lower for choosing the move.
 
