@@ -1,4 +1,4 @@
-#&#8203;🔥 The İmmolator 🔥
+#&#8203;🔥 The İmmolator (Streamlined Variant) 🔥
 
 ##Name:
 
@@ -116,7 +116,7 @@ _When you gain a level from 02-10, choose from these moves._
 
 * ☐ **This Killing Fire:** Add the following tags to your options for Burning Brand –  _messy, forceful, reach, near, far_.
 
-* ☐ **Firebrand:** When you **introduce a new idea to an NPC**, roll+CHA. On a 10+ They believe the idea to be their own and take to it with fervour On a 7-9, Their passion fades after a day or two. On a miss, they respond negatively, speaking out against the idea.
+* ☐ **Fanning The Flames:** When you **introduce a new idea to an NPC**, roll+CHA. On a 10+ They believe the idea to be their own and take to it with fervour On a 7-9, Their passion fades after a day or two. On a miss, they respond negatively, speaking out against the idea. İf you’re level 6 or higher, you may choose to apply the effects of this move to a group of people – a dozen or so – all at once, before rolling.
 
 * ☐ **Ogdru Jahad:** Gain the Wizard move Ritual. The GM will always tell you what you have to sacrifіce to gain the effect you desire.
 
@@ -135,8 +135,6 @@ _When you gain a level from 06-10, choose from these moves._
 * ☐ **From Hell’s Heart:** When you **summon fіre** with any of your moves, you can replace it with the black fіres of hell itself. This fіre does not burn with heat and ignores armor, scorching the soul itself. Those creatures without souls cannot be harmed by this type of flame.
 
 * ☐ **Burning Ring Of Fire:** When you **fuse a willing person’s soul to yours**, roll+CHA. On a hit you are bound together, able to sense each other at any distance, as well as sharing your emotional state. On a 7-9, the connection is unstable and dangerous, when you take a debility, so do they (and vice versa). On a miss, the branding is rejected and you both erase any Bonds you have to each other. You may write new Bonds with them at the _End of Session_ as usual. This fusion, once performed, cannot be undone by mortal means.
-
-* ☐ **Fanning The Flames:** _Requires: Firebrand_. You may apply the effects of your Firebrand move to a group of people – a dozen or so – all at once.
 
 * ☐ **Watch The World Burn:** When you **open a channel to the burning planes** and call a fіrestorm, tell the GM what you’re sacrifіcing and roll+WİS. The sky opens up and fіre pours like rain from it within an area about equal to a small village. Everyone and everything in the area takes damage as appropriate. On a 10+ you can extinguish the storm with a little effort. On a 7-9 the fіres rage out of your control, spreading and gusting where they are carried by wind and weather. On a miss, something cruel, intelligent and hungry comes with the storm.
 

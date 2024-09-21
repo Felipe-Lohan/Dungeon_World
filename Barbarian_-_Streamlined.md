@@ -48,7 +48,7 @@ _Fill in at least one with the name of a companion, or write your own._
 
 ##Race
 
-**Outsider:** You may be elf, dwarf, halfling, or human, but you and your people are not from around here. At the beginning of each session, the GM will ask you something about your homeland, why you left, or what you left behind. İf you answer them, mark XP.
+**Outsider (any race):** You and your people are not from around here. At the beginning of each session, the GM will ask you something about your homeland, why you left, or what you left behind. İf you answer them, mark XP.
 
 ##Attribute Scores
 
@@ -87,7 +87,7 @@ _Assign these scores to your stats: 16 (+2), 15 (+1), 13 (+1), 12 (+0), 9 (+0), 
 
   * On a 7–9 only a few (the weakest or most foolhardy among them) fall prey to your taunting.
 
-* **Herculean Appetites:** Others may content themselves with just a taste of wine, or dominion over a servant or two, but you want more. Choose two appetites. While **pursuing one of your appetites if you would roll for a move**, instead of rolling 2d6 you roll 1d6+1d8. İf the d6 is the higher die of the pair, the GM will also introduce a complication or danger that comes about due to your heedless pursuits.
+* **Herculean Appetites:** Others may content themselves with just a taste of wine, or dominion over a servant or two, but you want more. Choose two appetites; at the level 2, you choose an additional third one. While **pursuing one of your appetites if you would roll for a move**, instead of rolling 2d6 you roll 1d6+1d8. İf the d6 is the higher die of the pair, the GM will also introduce a complication or danger that comes about due to your heedless pursuits.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Pure destruction
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ Power over others
@@ -100,7 +100,7 @@ _Assign these scores to your stats: 16 (+2), 15 (+1), 13 (+1), 12 (+0), 9 (+0), 
 
 ##Additional Starting Moves
 
-_You also choose one of these to start with._
+_You also choose one of these to start with. The other one can be chosen in the further levels._
 
 * ☐ **Full Plate And Packing Steel:** You ignore the _clumsy_ tag on armor you wear.
 
@@ -110,9 +110,7 @@ _You also choose one of these to start with._
 
 _When you gain a level from 02-10, choose from these moves._
 
-* ☐ **Still Hungry:** Choose an additional appetite.
-
-* ☐ **Appetite For Destruction:** Take a move from the Fighter, Bard, or Thief class list. You may not take multiclass moves from those classes.
+* ☐ **Multiclass Barbarian (Slot 1):** Take a move from the Fighter, Bard, or Thief class list. You may not take multiclass moves from those classes.
 
 * ☐ **My Love For You İs Like A Truck:** When you **perform a feat of strength**, name someone present whom you have impressed and take +1 forward to parley with them.
 
@@ -140,14 +138,13 @@ _When you gain a level from 06-10, choose from these moves._
 
 * ☐ **A Good Day To Die:** As long as you have less than your CON in current HP (or 1, whichever is higher) take +1 ongoing.
 
-* ☐ **Kill ‘Em All:** _Requires: Appetite for Destruction_. Take another move from the Fighter, Bard, or Thief class list. You may not take multiclass moves from those classes.
+* ☐ **Multiclass Barbarian (Slot 2):** Take a move from the Fighter, Bard, or Thief class list. You may not take multiclass moves from those classes.
 
 * ☐ **War Cry:** When you **enter the battle with a show of force**, roll +CHA. On a 10+ both; on a 7-9 one or the other.
 
   * Your allies are rallied and take +1 forward.
 
   * Your enemies feel fear and act accordingly (avoiding you, hiding, attacking with fear-driven abandon).
-
 
 * ☐ **Mark Of Might:** When you take this move and **spend some uninterrupted time reflecting on your past glories**, you may mark yourself with a symbol of your power (a long braid tied with bells, ritual scars or tattoos, etc.) Any intelligent mortal creature who sees this symbol knows instinctively that you are a force to be reckoned with and treats you appropriately.
 
