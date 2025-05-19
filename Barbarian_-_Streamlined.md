@@ -48,7 +48,7 @@ _Fill in at least one with the name of a companion, or write your own._
 
 ##Race
 
-**Outsider (any race):** You and your people are not from around here. At the beginning of each session, the GM will ask you something about your homeland, why you left, or what you left behind. İf you answer them, mark XP.
+**Outsider:** You may be elf, dwarf, halfling, or human, but you and your people are not from around here. At the beginning of each session, the GM will **ask you something about your homeland**, why you left, or what you left behind. İf you answer them, mark XP.
 
 ##Attribute Scores
 
