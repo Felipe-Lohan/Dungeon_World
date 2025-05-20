@@ -2,8 +2,4 @@ The original «Dungeon World» was created by Sage La Torra & Adam Koebel, relea
 
 ❦License❦
 
-The fіles in this [directory/folder/repository] are under the licensing model of the following links:
-
-https://github.com/Felipe-Lohan/00_-_Licensing_And_Documentation/blob/main/License.txt
-
-https://raw.githubusercontent.com/Felipe-Lohan/00_-_Licensing_And_Documentation/main/License.txt
+These representation of mine, through the fіles in this [directory/folder/repository], is in the Public Domain: the information wants to be Libre.
