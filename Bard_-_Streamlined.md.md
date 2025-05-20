@@ -129,7 +129,7 @@ When you **first encounter an important creature, location, or item** (your call
 
 ##Advanced Moves (Levels 02 To 10)
 
-_When you gain a level from 02-10, write down your newly acquired moves here._
+_When you gain a level from 02-10, choose from these moves._
 
 * ☐ **Healing Song:** When you **heal with Arcane Art**, you heal extra damage based on your Level – +1d8 for Levels lower than 6, +2d8 for the Level 6 or higher.
 
@@ -155,7 +155,7 @@ choose two effects instead of one. If you’re Level 6 or higher, you also get t
 
 ##Advanced Moves (Levels 06 To 10)
 
-_When you gain a level from 06-10, write down your newly acquired moves here._
+_When you gain a level from 06-10, choose from these moves._
 
 * ☐ **Unforgettable Face:** When you **meet someone you’ve met before** (your call) after some time apart you take +1 forward against them.
 
@@ -199,7 +199,7 @@ _When you gain a level from 06-10, write down your newly acquired moves here._
 
 &nbsp;&nbsp;&nbsp;&nbsp;☐ **Ostentatious Clothes** (worn, 0 weight)
 
-  _Choose your weapon:_
+  _Choose your armament:_
 
 &nbsp;&nbsp;&nbsp;&nbsp;☐ **Dueling Rapier** (close, precise, 2 weight)
 

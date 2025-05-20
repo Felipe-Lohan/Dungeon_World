@@ -34,7 +34,7 @@ _Choose one for each, or write your own._
 
 ☐ **(Other – Specify):**
 
-##Bonds (Write your own):
+##Bonds
 
 _Fill in at least one with the name of a companion, or write your own._
 
@@ -129,7 +129,7 @@ When you **first encounter an important creature, location, or item** (your call
 
 ##Advanced Moves (Levels 02 To 10)
 
-_When you gain a level from 02-10, write down your newly acquired moves here._
+_When you gain a level from 02-10, choose from these moves._
 
 * ☐ **Healing Song:** When you **heal with Arcane Art**, you heal +1d8 damage.
 
@@ -155,7 +155,7 @@ choose two effects instead of one.
 
 ##Advanced Moves (Levels 06 To 10)
 
-_When you gain a level from 06-10, write down your newly acquired moves here._
+_When you gain a level from 06-10, choose from these moves._
 
 * ☐ **Healing Chorus:** _Replaces: Healing Song_. When you **heal with Arcane Art**, you heal +2d8 damage.
 

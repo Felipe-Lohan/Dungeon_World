@@ -1,9 +1,9 @@
-❦Licen[sing/ça]❦
+The original «Dungeon World» was created by Sage La Torra & Adam Koebel, released under the Creative Commons Attribution v3.0.
 
-[By/Por]: Felipe Lohan Pinheiro da Silva
+❦License❦
 
-***
+The fіles in this [directory/folder/repository] are under the licensing model of the following links:
 
-🇺🇸🇬🇧All of my works are in the Public Domain, being everything provided WİТН their respective source codes: the information wants to be Libre.
+https://github.com/Felipe-Lohan/00_-_Licensing_And_Documentation/blob/main/License.txt
 
-🇧🇷🇵🇹Todas as minhas obras tão em Domínio Público, sendo tudo fornecido СОМ os seus respectivos códigos-fontes: a informação deseja ser livre.
+https://raw.githubusercontent.com/Felipe-Lohan/00_-_Licensing_And_Documentation/main/License.txt

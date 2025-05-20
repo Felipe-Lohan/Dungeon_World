@@ -131,7 +131,7 @@ _When you gain a level from 06-10, write down your newly acquired moves here._
 
 ##0th Level Spells
 
-_You prepare all of your 0th level spells every time you prepare your spells, without having to select them or count them toward your allotment of spells._
+_When you prepare your spells, all of your 0th level spells are also automatically prepared, without having to select them or count them toward your allotment of spells._
 
 *
 

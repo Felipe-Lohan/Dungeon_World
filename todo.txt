@@ -1,0 +1,21 @@
+✔️Barbarian
+
+✔️Bard
+
+🚫Cleric
+
+🚫Druid
+
+✔️Fighter
+
+✔️Immolator
+
+🚫Paladin
+
+✔️Ranger
+
+✔️Rogue (Thief)
+
+🚫Wizard
+
+✔️Generic Template

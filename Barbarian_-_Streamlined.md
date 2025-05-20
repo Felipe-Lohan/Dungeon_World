@@ -82,7 +82,6 @@ _Assign these scores to your stats: 16 (+2), 15 (+1), 13 (+1), 12 (+0), 9 (+0), 
 
 * **What Are You Waiting For?:** When you **cry out a challenge to your enemies**, roll+Con.
 
-
   * On a 10+ they treat you as the most obvious threat to be dealt with and ignore your companions, take +2 damage ongoing against them.
 
   * On a 7–9 only a few (the weakest or most foolhardy among them) fall prey to your taunting.
@@ -100,7 +99,7 @@ _Assign these scores to your stats: 16 (+2), 15 (+1), 13 (+1), 12 (+0), 9 (+0), 
 
 ##Additional Starting Moves
 
-_You also choose one of these to start with. The other one can be chosen in the further levels._
+_You also choose one of these to start with. You may take the other as part of your advancement in further levels._
 
 * ☐ **Full Plate And Packing Steel:** You ignore the _clumsy_ tag on armor you wear.
 
