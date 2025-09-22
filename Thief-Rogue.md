@@ -212,8 +212,8 @@ _Choose a ranged weapon:_
 
 _Choose one:_
 
-☐ **Adventuring Gear** (05 uses, 01 weight)
+&nbsp;&nbsp;&nbsp;&nbsp;☐ **Adventuring Gear** (05 uses, 01 weight)
 
-☐ **Healing Potion** (0 weight)
+&nbsp;&nbsp;&nbsp;&nbsp;☐ **Healing Potion** (0 weight)
 
 Other possessions (Write down here):
