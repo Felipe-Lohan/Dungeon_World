@@ -1,4 +1,4 @@
-#&#8203;☀️ The Cleric ☀️
+#&#8203; The Cleric
 
 ##Name:
 

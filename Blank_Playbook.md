@@ -1,4 +1,4 @@
-#&#8203;👤 Playbook 👤
+#&#8203;👤 Playbook (Blank/Generic) 👤
 
 ##[Name/Epithet]:
 
