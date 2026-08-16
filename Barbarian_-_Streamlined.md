@@ -1,6 +1,4 @@
-#&#8203;ᛉ The Barbarian ᛉ
-
-##Name:
+#&#8203;ᛉ The Barbarian (Streamlined Variant) ᛉ
 
 **Names:** Gorm, Si-Yi, Priscilla, Sen, Xia, Anneira, Haepha, Lur, Shar, Korrin, Nkosi, Fafnir, Qua, Sacer, Vercin’geto, Barbozar, Clovis, Frael, Thra-raxes, Sillius, Sha-Sheena, Khamisi.
 
@@ -48,7 +46,7 @@ _Fill in at least one with the name of a companion, or write your own._
 
 ##Race
 
-**Outsider:** You may be elf, dwarf, halfling, or human, but you and your people are not from around here. At the beginning of each session, the GM will **ask you something about your homeland**, why you left, or what you left behind. İf you answer them, mark XP.
+**Outsider:** You may be from any race, but you and your people are not from around here. At the beginning of each session, the GM will **ask you something about your homeland**, why you left, or what you left behind. İf you answer them, mark XP.
 
 ##Attribute Scores
 
