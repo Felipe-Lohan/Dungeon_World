@@ -1,4 +1,8 @@
-#&#8203;🧙 The Wizard (Mage) 🧙
+#&#8203;🧙 The Wizard 🧙
+
+![Wizard-Mage Logo](Wizard-Mage_-_Dungeon_World.svg)
+
+_A.k.a. Mage
 
 ##Name:
 

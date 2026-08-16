@@ -1,5 +1,7 @@
 #&#8203; The Cleric
 
+![Cleric Logo](Cleric_-_Dungeon_World.svg)
+
 ##Name:
 
 **dwarf:** Durga, Aelfar, Gerda, Rurgosh, Bjorn, Drummond, Helga, Siggrun, Freya

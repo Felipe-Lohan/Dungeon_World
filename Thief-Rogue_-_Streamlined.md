@@ -1,5 +1,7 @@
 #&#8203;🗡️💰 The Rogue 💰🗡️
 
+![Thief-Rogue Logo](Thief-Rogue_-_Dungeon_World.svg)
+
 _A.k.a. Thief_
 
 ##Name:

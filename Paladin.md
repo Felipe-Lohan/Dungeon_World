@@ -1,6 +1,4 @@
-#&#8203; The Paladin
-
-![Paladin Logo](Paladin_-_Dungeon_World.svg)
+#&#8203; 👑 The Paladin 👑
 
 **Names:** Thaddeus, Augustine, Lux, Cassius, Hadrian, Lucia, Octavia, Regulus, Valeria, Sanguinus, Titanius.
 
