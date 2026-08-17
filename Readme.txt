@@ -4,11 +4,10 @@ The repository of Sage La Torra (SageLT) for the game makes use of the proprieta
 
 So İ decided to port it to a Libre scriptable format. To do so, İ copied the content from the PDF that was generated.
 
-Also, Dungeon world has been criticized in the web because it didn’t provided [blank/generic/universal/customizable/template] playbooks. İ created one for this repository.
+Dungeon World also has been criticized in the web because it didn’t provided [blank/generic/universal/customizable/template] playbooks. İ created one for this repository.
 
-Also, the Ranger’s move «Smaug’s Belly» move was renamed «Beast’s Belly», to make the community free from the copyright trolls of the Tolkien’s Estate.
+Also, İ renamed the Ranger’s move «Smaug’s Belly» to «Beast’s Belly», in order to make the gaming community free from the copyright trolls of the Tolkien’s Estate.
 
 These solutions aren’t perfect, though. But İ’m sure that ye can devise better formatting solutions.
 
 – Felipe Lohan Pinheiro da Silva.
-

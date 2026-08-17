@@ -4,13 +4,13 @@
 
 🚫Cleric
 
-🚫Druid
+✔️Druid
 
 ✔️Fighter
 
 ✔️Immolator
 
-🚫Paladin
+✔️Paladin
 
 ✔️Ranger
 

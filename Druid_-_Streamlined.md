@@ -6,7 +6,7 @@
 
 **Human (🧍)**:  Elana, Obelis, Herran, Syla, Andanna, Siobhan, Aziz, Pelin, Sibel, Nils, Wei
 
-**Halfling**: Tanner, Dunstan, Rose, Ivy, Robard, Mab, Thistle, Puck, Anne, Serah
+**Halfling**: Tanner, Dunstan, Rose, İvy, Robard, Mab, Thistle, Puck, Anne, Serah
 
 ##Level:
 
@@ -50,11 +50,11 @@ _Fill in at least one with the name of a companion, or write your own._
 
 ##Race:
 
-* ☐ **Elf:** The sap of the elder trees flows within you. In addition to any other attunements, the Great Forest is always considered your land.
+* ☐ **Elf:** The sap of the elder trees flows within you. İn addition to any other attunements, the Great Forest is always considered your land.
 
 * ☐ **Human:** As your people learned to bind animals to field and farm, so too are you bound to them. You may always take the shape of any domesticated animal, in addition to your normal options.
 
-* ☐ **Halfling:** You sing the healing songs of spring and brook. When you make camp, you and your allies heal +1d6.
+* ☐ **Halfling:** You sing the healing songs of spring and brook. When you **make camp**, you and your allies heal +1d6.
 
 * ☐ **(Other – Specify):**
 
@@ -87,7 +87,7 @@ _Assign these scores to your stats: 16 (+2), 15 (+1), 13 (+1), 12 (+0), 9 (+0), 
 ##Starting Moves
 
 * **Born Of The Soil:** You learned your magic in a place whose spirits are strong and ancient and they’ve marked you as one of their own. No matter where you go, they live within you and allow you to take their shape. Choose one
-of the following. It is the land to which you are attuned – when shapeshifting you may take the shape of any animal who might live in your Land.
+of the following. İt is the land to which you are attuned – when shapeshifting you may take the shape of any animal who might live in your Land.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ The Great Forests
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ The Whispering Plains
@@ -95,15 +95,15 @@ of the following. It is the land to which you are attuned – when shapeshifting
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ The Stinking Mire
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ The River Delta
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ The Depths of the Earth
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ The Sapphire Islands
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ The Sapphire İslands
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ The Open Sea
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ The Towering Mountains
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ The Frozen North
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☐ The Blasted Wasteland
 
-Chose a tell – a physical attribute that marks you as born of the soil – that reflects the spirit of your land. It may be an animal feature like antlers or leopard’s spots or something more general: hair like leaves or eyes of glittering crystal. Your tell remains no matter what shape you take.
+Chose a tell – a physical attribute that marks you as born of the soil – that reflects the spirit of your land. İt may be an animal feature like antlers or leopard’s spots or something more general: hair like leaves or eyes of glittering crystal. Your tell remains no matter what shape you take (but see the “Doppleganger’s Dance” move).
 
-* **By Nature Sustained:** You don’t need to eat or drink. If a move tells you to mark off a ration just ignore it.
+* **By Nature Sustained:** You don’t need to eat or drink. İf a move tells you to mark off a ration just ignore it.
 
 * **Spirit Tongue:** The grunts, barks, chirps, and calls of the creatures of the wild are as language to you. You can understand any animal native to your land or akin to one whose essence you have studied.
 
@@ -119,14 +119,15 @@ You may take on the physical form of any species whose essence you have studied 
 
 * **Studied Essence:** When you **spend time in contemplation of an animal spirit**, you may add its species to those you can assume using shapeshifting.
 
+* **World Talker:** You see the patterns that make up the fabric of the world. You may apply your spirit tongue, shapeshifter and studied essence moves to pure elements – fire, water, air and earth.
+
 ##Advanced Moves (Levels 02 To 10)
 
 _When you gain a level from 02-10, choose from these moves._
 
-* ☐ ** Hunter’s Brother:** Choose one move from the **Ranger** class list.
+* ☐ ** “Hunter’s Brother, Stalker’s Sister” (Slot 01):** Choose one move from the **Ranger** class list.
 
-* ☐ ** Red Of Tooth And Claw:** When you **are in an appropriate animal form (something dangerous)**, increase your
-damage to d8.
+* ☐ ** Red Of Tooth And Claw:** When you **are in an appropriate animal form (something dangerous)**, you get a damage bonus based on your level – +1d8 for the levels 02-05, +1d10 for the levels 06 or higher.
 
 * ☐ ** Communion Of Whispers:** When you **spend time in a place, making note of its resident spirits and calling on the spirits of the land**, roll+Wis. You will be granted a vision of significance to you, your allies, and the spirits around you.
 
@@ -171,21 +172,17 @@ _When you gain a level from 06-10, choose from these moves._
 
 * ☐ ** Doppleganger’s Dance:** You are able to study the essence of specific individuals to take their exact form, including men, elves, or the like. Suppressing your tell is possible, but if you do, take -1 ongoing until you return to your own form.
 
-* ☐ ** Blood And Thunder:** _Replaces: Red Of Tooth And Claw_. When you **are in an appropriate animal form (something dangerous)**, increase your damage to d10.
-
-* ☐ ** The Druid Sleep:** When you take this move, the nextopportunity that you have safety and time to spend in an appropriate location, you may attune yourself to a new land. This effect occurs only once and the GM will tell you how long it will take and what cost you must pay. From then on, you are considered to be born of the soil in both lands.
+* ☐ ** The Druid Sleep:** When you take this move, the next opportunity that you have safety and time to spend in an appropriate location, you may attune yourself to a new land. This effect occurs only once and the GM will tell you how long it will take and what cost you must pay. From then on, you are considered to be born of the soil in both lands.
 
 * ☐ ** Weather Weaver:** When you **are under open skies when the sun rises**, the GM will ask you what the weather will be that day. Tell them whatever you like, it comes to pass.
 
-* ☐ ** World-talker:** _Requires: Thing-talker_. You see the patterns that make up the fabric of the world. You may now apply your spirit tongue, shapeshifter and studied essence moves to pure elements – fire, water, air and earth.
-
-* ☐ ** Formshaper:** _Requires: Formcrafter_. You may increase your armor by 1 or deal an additional +1d4 damage while in an animal form. Choose which when you shapeshift.
+* ☐ ** Formshaper:** You may increase your armor by 1 or deal an additional +1d4 damage while in an animal form. Choose which when you shapeshift.
 
 * ☐ ** Healthy Distrust:** Whenever the unclean magic wielded by mortal men causes you to **Defy Danger**, treat any result of 6- as a 7-9.
 
 * ☐ ** Chimera:** When you **Shapeshift**, you may create a merged form of up to three different shapes. You may be a bear with the wings of an eagle and the head of a ram, for example. Each feature will grant you a different move to make. Your chimera form follows the same rules as shapeshifter otherwise.
 
-* ☐ ** Stalker’s Sister:** Choose one move from the ranger class list.
+* ☐ ** “Hunter’s Brother, Stalker’s Sister” (Slot 02):** Choose one move from the **Ranger** class list.
 
 ##Starting Gear & Coins
 
@@ -221,8 +218,6 @@ _When you gain a level from 06-10, choose from these moves._
 
 &nbsp;&nbsp;&nbsp;&nbsp;☐ **Halfling Pipeleaf** (6 uses, 0 weight)
 
-
-
 Other possessions (Write down here):
 
 ##Common Animal Moves
@@ -247,7 +242,7 @@ Other possessions (Write down here):
   
 **Poisonous:**
 
-  * Inflict your poison on them
+  * İnflict your poison on them
 
   * Drive them back
 
