@@ -1,4 +1,4 @@
-This is some material for the tabletop RPG Dungeon World.
+This is some NON-OFFİCİAL material for the tabletop RPG Dungeon World.
 
 The repository of Sage La Torra (SageLT) for the game makes use of the proprietary fіle format for the «Adobe İnDesign» (.indd extension), currently unusable by the FLOSS (Free Libre Open Source Software). Also, the text of «Read Me» file of the repository openly states that the fіles make use of proprietary fonts.
 
